@@ -6,7 +6,7 @@ const Nav = () => {
     return (
         <header className="bg-[#191A19] py-5 sticky top-0 z-30 xl:px-0 sm:px-8 px-5">
             <nav className="flex container mx-auto items-center text-white justify-between">
-                <Image src="/icons/logo.png" width={240} height={0} alt="" />
+                <Image src="/icons/Logo.png" width={240} height={0} alt="" />
                 <ul className="lg:flex hidden items-center font-medium">
                     <li className="mr-8 relative hover:text-[#FF7420] group duration-300"><a href="#home">Home</a> <o className="absolute duration-300 left-0 -bottom-2 w-0 group-hover:w-full h-1 bg-[#FF7420] rounded-full"></o></li>
                     <li className="mr-8 relative hover:text-[#FF7420] group duration-300"><a href="#about">About</a> <o className="absolute duration-300 left-0 -bottom-2 w-0 group-hover:w-full h-1 bg-[#FF7420] rounded-full"></o></li>
