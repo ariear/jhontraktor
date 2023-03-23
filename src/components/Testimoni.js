@@ -2,9 +2,9 @@ import Image from "next/image"
 
 const Testimoni = () => {
     return (
-        <div className="bg-[#191A19] text-white text-center py-16" id="service" >
+        <div className="bg-[#191A19] text-white text-center py-16 lg:px-0 px-5" id="service" >
             <p className="font-semibold text-2xl text-[#FF7420] mb-5">What Our Client Says</p>
-            <p className="w-[850px] mx-auto mb-4">I am very satisfied with the services. Their team is very professional and efficient in completing our project on time and at a very affordable cost. The quality of their work is very good and I highly recommend this company for any construction project.</p>
+            <p className="lg:w-[850px] mx-auto mb-4">I am very satisfied with the services. Their team is very professional and efficient in completing our project on time and at a very affordable cost. The quality of their work is very good and I highly recommend this company for any construction project.</p>
             <p className="font-medium mb-2">Tom DeLonge</p>
             <p className="text-sm mb-7">CEO, Lexmark</p>
             <div className="flex items-center mx-auto w-max">
