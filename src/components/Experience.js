@@ -2,7 +2,7 @@ import Image from "next/image"
 
 const Experience = () => {
     return (
-        <div className="bg-[#191A19]">
+        <div className="bg-[#191A19]" id="about">
             <div className="container mx-auto pt-14">
                 <div className="flex items-center mb-28">
                     <div className="flex items-center mr-4">

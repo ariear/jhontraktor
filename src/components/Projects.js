@@ -2,7 +2,7 @@ import Image from "next/image"
 
 const Projects = () => {
     return (
-        <div className="bg-[#FF7420]">
+        <div className="bg-[#FF7420]" id="project">
             <div className="container mx-auto pt-16 pb-24 text-white">
                 <div className="flex items-center justify-evenly">
                     <div className="text-center w-max ">

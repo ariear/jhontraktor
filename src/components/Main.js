@@ -3,7 +3,7 @@ import CardExcess from "./CardExcess"
 
 const Main = () => {
     return (
-        <div className="bg-[url('/img/main.png')] bg-cover bg-center py-32" >
+        <div className="bg-[url('/img/main.png')] bg-cover bg-center py-32" id="home" >
             <div className="text-white relative container mx-auto">
                 <p className="text-6xl mb-6 font-semibold w-[450px] leading-[60px]">We Prepare For The <o className="text-[#FF7420]">Future</o></p>
                 <p className="w-[480px]">We provide the best architectural design, contruction, and building maintance services for you.</p>
