@@ -6,7 +6,7 @@ const Footer = () => {
             <footer className="container mx-auto py-8">
                 <div className="flex items-center justify-between mb-8 flex-wrap">
                     <Image src='/icons/logo-white.png' className="sm:mb-0 mb-5" alt="" width={200} height={0} />
-                    <div className="flex items-center">
+                    <div className="flex items-center flex-wrap">
                         <p className="font-light">Subscribe To Our Newslatter :</p>
                         <input type="text" placeholder="Enter your email address" className="bg-transparent ml-4 text-sm border-b border-[#FFFFFF50] pb-1 w-[230px]" name="" id="" />
                         <Image src='/icons/arrow-white.png' alt="" width={15} height={0} className="-translate-x-3" />

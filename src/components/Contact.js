@@ -5,7 +5,7 @@ const Contact = () => {
         <div className="bg-[url('/img/bluri.png')] bg-cover bg-center relative">
             <div className="absolute left-0 top-0 w-full h-full bg-gradient-to-b from-[#191A19] to-[#FFFFFF00]"></div>
             <div className="container mx-auto text-white py-16 z-10 relative">
-                <p className="font-semibold text-6xl text-center mb-8">Leading Way In Building & Civil Construction</p>
+                <p className="font-semibold px-2 text-2xl sm:text-6xl text-center mb-8">Leading Way In Building & Civil Construction</p>
                 <div className="flex items-center justify-evenly mb-14 lg:px-0 px-3 sm:flex-row flex-col">
                     <p className="flex items-center text-lg font-medium sm:mb-0 mb-4"><Image src='/icons/check.png' alt="" width={20} height={0} className="mr-2" /> Proffesional Staff</p>
                     <p className="flex items-center text-lg font-medium sm:mb-0 mb-4"><Image src='/icons/check.png' alt="" width={20} height={0} className="mr-2" /> 100% Satisfacion</p>
